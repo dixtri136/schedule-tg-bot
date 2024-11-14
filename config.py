@@ -1,4 +1,4 @@
-TOKEN = "6801027868:AAFQpF_E_ZsRp-BcVfc9Ag47_UDb3AP8UJU"
+TOKEN = "THIS IS HAPPYTOKEN"
 
 
 ADMIN_ERROR_TXT = "Нажаль, Ви не є адміністратором Бота, звернiться до @dixtri136"
